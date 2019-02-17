@@ -1,0 +1,4 @@
+Este projeto tem como objetivo trabalhar com RadioButton.
+Neste aplicativo quando o usuário escolhe um item radioButton do radioGroup, e clica no botão "Escolher",
+o nome do radioButton escolhido será exibido na tela, abaixo do botão.
+
